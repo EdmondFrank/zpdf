@@ -19,3 +19,4 @@ test/
 
 # WASM binary (built by CI)
 web/zpdf.wasm
+.aider*
